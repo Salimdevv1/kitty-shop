@@ -1,0 +1,22 @@
+{
+    "name":"Kitty's Shop",
+    "short_name":"Kitty",
+    "start_url":"/",
+    "display":"standalone",
+    "background_color":"#5900b3",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+    "icons":[
+    {
+    "src":"img/kiity.jpg",                      
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"img/kiity.jpg",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
